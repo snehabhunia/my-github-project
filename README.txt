@@ -6,3 +6,4 @@ This line is modified on FEATURE-A branch
 Adding more content to README file.
 Another temporary change
 Change made on main branch before merge.
+This change will be reverted
